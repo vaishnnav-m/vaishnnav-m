@@ -1,10 +1,9 @@
-![Young Programmer Coding](https://gifdb.com/images/high/animated-programmer-guy-coding-790a0bs8e8thpisg.gif)
-
 # 👋 Hi, I'm Vaishnav!
-### 🚀 MERN Stack Developer | Passionate about Web Development
+### 🚀 MERN Stack Developer | Passionate about Web Development  
+![Young Programmer Coding](https://github.com/user-attachments/assets/37c9531a-5ae8-4f4b-be25-f2a2db3b71f5)
 
-![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social) 
-![GitHub stars](https://img.shields.io/github/stars/yourusername?style=social)
+![GitHub followers](https://img.shields.io/github/followers/vaishnnav-m?style=social) 
+![GitHub stars](https://img.shields.io/github/stars/vaishnnav-m?style=social)
 
 ## 📌 About Me
 I'm a **MERN Stack Developer** who loves building robust and scalable web applications. I specialize in **MongoDB, Express.js, React.js, and Node.js**. Passionate about learning new technologies and solving real-world problems through code.
@@ -31,9 +30,6 @@ I'm a **MERN Stack Developer** who loves building robust and scalable web applic
 ![Vaishnav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaishnnav-m&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnnav-m&layout=compact&theme=tokyonight)
-
-## 📈 Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=vaishnnav-m&theme=tokyo-night)
 
 ## 🚀 Projects
 🔹 **[DORESU - E-Commerce](https://github.com/vaishnnav-m/DORESU-ECOM-CLIENT)** - MERN-based e-commerce platform
