@@ -33,10 +33,10 @@ I'm a **MERN Stack Developer** who loves building robust and scalable web applic
 
 ## 🚀 Projects
 🔹 **[DORESU - E-Commerce](https://github.com/vaishnnav-m/DORESU-ECOM-CLIENT)** - MERN-based e-commerce platform
-🔹 **[DORESU - E-Commerce](https://github.com/yourusername/skyab360-new)** - SKYLAB 360 dorone services providing platform
+🔹 **[SKYLAB 360](https://github.com/yourusername/skyab360-new)** - SKYLAB 360 dorone services providing platform
 
 ## 🎯 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishnnav)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://vaishnnav-m.github.io/Vaishnnav-portfolio/)
 
-📧 **Email:** [your-email@example.com](mailto:vaishnnav0@gmail.com)
+📧 **Email:** [vaishnnav0@gmail.com](mailto:vaishnnav0@gmail.com)
