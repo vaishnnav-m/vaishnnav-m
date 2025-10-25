@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Vaishnav!
 ### 🚀 MERN Stack Developer | Passionate about Web Development  
-![Young Programmer Coding](https://github.com/user-attachments/assets/37c9531a-5ae8-4f4b-be25-f2a2db3b71f5)
+![Young Programmer Coding](https://github.com/user-attachments/<img width="1024" height="1024" alt="Gemini_Generated_Image_45y3z045y3z045y3" src="https://github.com/user-attachments/assets/c2edd569-036f-4230-84b0-3907560503ae" />
+ssets/37c9531a-5ae8-4f4b-be25-f2a2db3b71f5)
 
 ![GitHub followers](https://img.shields.io/github/followers/vaishnnav-m?style=social) 
 ![GitHub stars](https://img.shields.io/github/stars/vaishnnav-m?style=social)
