@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Vaishnav!
 ### 🚀 MERN Stack Developer | Passionate about Web Development  
-![Young Programmer Coding](https://github.com/user-attachments/<img width="1024" height="1024" alt="Gemini_Generated_Image_45y3z045y3z045y3" src="https://github.com/user-attachments/assets/c2edd569-036f-4230-84b0-3907560503ae" />
+<img width="1536" height="1024" alt="ChatGPT Image Oct 25, 2025, 11_19_41 AM" src="https://github.com/user-attachments/assets/5fa3665b-b084-46da-b311-29187db6c21f" />
+
 ssets/37c9531a-5ae8-4f4b-be25-f2a2db3b71f5)
 
 ![GitHub followers](https://img.shields.io/github/followers/vaishnnav-m?style=social) 
